@@ -3,7 +3,7 @@
 
 const span = document.querySelector('#senhaOutdoor')
 const button = document.getElementById('buttonSenha')
-let tamanho = null
+let tamanho = 8
 let complexidade = 1
 let typeAnimation = false
 const chars = '!@#$%^&*()-_+[]{}>\?/'
