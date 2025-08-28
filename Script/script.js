@@ -17,7 +17,7 @@ const letrasMaisArray = letrasMaiscula.split("")
 
 
 //botoes sendo ativados
-const botoes = document.querySelectorAll("#button button");
+const botoes = document.querySelectorAll("#buttons button");
 botoes.forEach(botao => {
     botao.addEventListener("click", () => {
         tamanho = botao.textContent;
