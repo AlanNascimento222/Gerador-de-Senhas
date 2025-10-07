@@ -19,4 +19,4 @@ O projeto foi desenvolvido com tecnologias web padrões:
 -   **JavaScript**: Lógica de programação, geração da senha e manipulação do DOM.
 -   **Google Fonts**: Para a fonte 'Poppins'.
 
-_Desenvolvido por [SEU NOME](https://github.com/AlanNascimento222)._
+_Desenvolvido por [Alan Nascimento](https://github.com/AlanNascimento222)._
